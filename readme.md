@@ -1,3 +1,7 @@
+> ⚠️ Mirror repository  
+> Primary development happens on Gitea:  
+> https://git.hzwnrw.my/Insurance/insurance-be
+
 # Insurance BE
 
 ## Project Overview
